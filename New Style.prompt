@@ -1,0 +1,376 @@
+I want you to completely redesign my portal UI/UX from scratch into a PREMIUM, FUTURISTIC, HIGH-END PRODUCT EXPERIENCE.
+
+IMPORTANT:
+Do NOT make it look like Bolt, Lovable, V0, ChatGPT, Claude, Perplexity, Cursor, Replit, or any common AI/code-generation dashboard.
+If the result looks even 20% similar to typical AI portals, REJECT that direction and redesign again.
+
+My goal:
+When a user opens this portal, they should immediately feel:
+- “This looks expensive”
+- “This feels next-generation”
+- “This is not a clone”
+- “This product has identity”
+- “I want to explore this UI”
+
+This should feel like a fusion of:
+- Apple-level polish
+- Linear-level sharpness
+- Framer-level visual storytelling
+- Notion-level spacing discipline
+- Arc Browser-level freshness
+- High-end SaaS intelligence
+- Cinematic motion design
+- Premium enterprise trust
+
+--------------------------------------------------
+CORE DESIGN MISSION
+--------------------------------------------------
+
+Redesign the ENTIRE visual language of the portal including:
+- layout
+- spacing
+- typography
+- component styling
+- surfaces
+- panels
+- cards
+- sidebar
+- topbar
+- buttons
+- forms
+- tables
+- graphs
+- chatbot areas
+- prompts area
+- loaders
+- empty states
+- hover states
+- transitions
+- shadows
+- glow treatment
+- gradients
+- borders
+- depth
+- visual hierarchy
+- responsiveness
+
+This is NOT a minor restyle.
+This is a COMPLETE EXPERIENCE TRANSFORMATION.
+
+--------------------------------------------------
+ANTI-GENERIC DESIGN RULES (MANDATORY)
+--------------------------------------------------
+
+DO NOT USE:
+- generic dark AI dashboard look
+- plain black background with random purple glow
+- standard sidebar copied from AI tools
+- default shadcn look without customization
+- typical rounded card layouts everyone uses
+- flat “developer tool” styling
+- generic “chat app” spacing
+- boring command center visuals
+- common SaaS dashboard patterns with no identity
+
+DO NOT create a UI that looks:
+- template-based
+- clone-based
+- startup-hackathon-ish
+- visually predictable
+- like “just another prompt tool”
+
+This portal MUST have a signature design language.
+
+--------------------------------------------------
+TARGET VISUAL IDENTITY
+--------------------------------------------------
+
+Build a design system with the following personality:
+
+Aesthetic keywords:
+- premium
+- immersive
+- cinematic
+- futuristic
+- intelligent
+- clean
+- precise
+- high-trust
+- deep visual hierarchy
+- elegant motion
+- crafted
+- modern but timeless
+
+It should feel like:
+“An AI operating system for serious builders”
+not
+“a copied chatbot wrapper”
+
+--------------------------------------------------
+VISUAL STYLE DIRECTION
+--------------------------------------------------
+
+Create a UNIQUE VISUAL EXPERIENCE using these principles:
+
+1. LAYERED DEPTH
+- Use layered surfaces, translucent panels, controlled glass effects
+- Rich depth hierarchy between background / panel / active surface / floating UI
+- Create a premium sense of spatial separation
+
+2. EDITORIAL SPACING
+- Use bold whitespace intentionally
+- Give every section room to breathe
+- Make the layout feel designed, not packed
+
+3. STRONG TYPOGRAPHY SYSTEM
+- Typography must feel elite and product-grade
+- Use a premium font pairing
+- Example direction:
+  - Headings: Inter Tight / Satoshi / Plus Jakarta Sans / Geist / Manrope
+  - Body: Inter / Manrope / SF-like clean system pairing
+  - Mono/code: JetBrains Mono / Geist Mono
+- Typography should create hierarchy instantly
+- Avoid default “all text looks same” problem
+
+4. RICH VISUAL TEXTURE
+- Add subtle mesh gradients / ambient lighting / premium surface textures
+- Use controlled highlights, not loud gamer effects
+- Use restrained sophistication
+
+5. PREMIUM COLOR SYSTEM
+- Create a branded, memorable palette
+- Avoid overused AI purple-blue gradient cliché
+- Introduce a refined, original accent system
+- Use dark mode that feels luxurious, not dull
+- Optional direction:
+  - graphite / obsidian / deep navy base
+  - champagne / electric cyan / muted emerald / aurora accents
+- Ensure every accent has a purpose
+
+6. MICRO-INTERACTIONS
+- Every hover, click, expand, focus, tab switch, and load should feel alive
+- Add subtle but premium motion
+- Motion should communicate intelligence and polish
+- Avoid gimmicks
+
+7. VISUAL RHYTHM
+- Different component densities across the page
+- Some zones should feel calm and minimal
+- Some zones should feel powerful and data-rich
+- Avoid one-density UI everywhere
+
+--------------------------------------------------
+LAYOUT REINVENTION (VERY IMPORTANT)
+--------------------------------------------------
+
+Reimagine the layout itself.
+
+Do NOT keep the typical:
+sidebar + topbar + content + chatbot clone layout
+unless heavily reinvented.
+
+Explore a more premium structure such as:
+- floating navigation rails
+- immersive workspace shell
+- split intelligence canvas
+- modular command surfaces
+- dynamic activity dock
+- contextual action panels
+- elegant collapsible intelligence zones
+- asymmetric layout balance
+- framed content islands
+- adaptive workbench structure
+
+The layout should feel like a PRODUCT EXPERIENCE, not an admin panel.
+
+--------------------------------------------------
+MAKE THE PORTAL FEEL LIKE A PRODUCT, NOT A PAGE
+--------------------------------------------------
+
+Every screen should feel intentional and alive.
+
+Need visual treatment for:
+- home/dashboard
+- prompt/chat workspace
+- code generation area
+- graph/canvas area
+- logs/console area
+- data cards
+- side panels
+- settings
+- project sections
+- file or output panels
+- empty states
+- loading skeletons
+- success states
+- AI thinking states
+
+The “AI is working” moments must feel magical and premium.
+
+--------------------------------------------------
+AI / CODE GENERATION EXPERIENCE STYLING
+--------------------------------------------------
+
+This is critical.
+
+Since many users already saw code generation portals, make THIS feel different.
+
+Redesign the generation experience with:
+- cinematic streaming area
+- premium response container
+- elegant prompt composer
+- high-end action controls
+- elevated code blocks
+- rich generation status indicators
+- intelligent panel transitions
+- better visual separation between:
+  - prompt
+  - thinking
+  - generated result
+  - logs
+  - actions
+  - preview
+
+Make code generation feel like “watching a machine craft something”
+instead of “reading plain chat bubbles”.
+
+Avoid generic chat UI at all costs.
+
+--------------------------------------------------
+GRAPH / CANVAS / DATA EXPERIENCE
+--------------------------------------------------
+
+If my portal has graph, node, canvas, logs, analytics, workflow, or data screens:
+make them visually spectacular and highly usable.
+
+Requirements:
+- graph canvas must feel premium and spacious
+- node cards should look custom and polished
+- connectors / edges should feel refined
+- overlays and controls should feel elegant
+- mini chat or assistant inside graph should feel contextual and intelligent
+- logs should look cinematic and developer-premium
+- data-heavy areas must still feel beautiful
+
+Turn technical screens into visual assets.
+
+--------------------------------------------------
+COMPONENT DESIGN REQUIREMENTS
+--------------------------------------------------
+
+Upgrade all components to custom premium variants:
+- buttons
+- pills
+- chips
+- tags
+- tabs
+- toggles
+- sliders
+- dropdowns
+- command palette
+- accordions
+- cards
+- alerts
+- notifications
+- tables
+- search
+- inputs
+- textareas
+- code panels
+- modals
+- drawers
+- tooltips
+- loaders
+- toasts
+
+Each component must feel branded and refined.
+No raw default library appearance should remain.
+
+--------------------------------------------------
+ANIMATION / MOTION SYSTEM
+--------------------------------------------------
+
+Use motion intelligently and consistently:
+- Framer Motion where appropriate
+- soft entrance transitions
+- spring-based hover states
+- panel reveal motion
+- contextual fades
+- floating transitions
+- subtle scale and parallax where tasteful
+- premium loading shimmer
+- cursor-follow or ambient interactions only if elegant
+
+Motion should feel:
+- expensive
+- smooth
+- controlled
+- modern
+
+Never childish or noisy.
+
+--------------------------------------------------
+DETAILING (THIS IS WHERE GREAT UI WINS)
+--------------------------------------------------
+
+Focus on details that make the UI feel unforgettable:
+- border opacity tuning
+- surface tint variations
+- shadow softness
+- section spacing precision
+- icon alignment
+- button weight balance
+- hover glow restraint
+- line height refinement
+- title/subtitle contrast
+- density consistency
+- corner radius system
+- active state clarity
+- focus ring elegance
+- premium dividers
+- empty state artistry
+
+These details matter more than “big redesign” tricks.
+
+--------------------------------------------------
+OUTPUT FORMAT I WANT FROM YOU
+--------------------------------------------------
+
+Now perform the redesign and give me:
+
+1. A COMPLETE UI/UX redesign implementation
+2. Improved design system / theme tokens
+3. Better color palette
+4. Better typography system
+5. Better spacing system
+6. Better component styling
+7. Better layout architecture
+8. Better animations / transitions
+9. Better empty / loading / thinking states
+10. A more premium and original overall experience
+
+While implementing:
+- keep the product usable
+- keep accessibility strong
+- maintain responsiveness
+- preserve functionality
+- improve clarity and delight massively
+
+--------------------------------------------------
+FINAL QUALITY CHECK (MANDATORY)
+--------------------------------------------------
+
+Before finalizing, self-check the result against this checklist:
+
+- Does this look too similar to existing AI portals?
+- Does this feel premium enough to impress on first open?
+- Does this have a unique visual identity?
+- Does this feel crafted or just assembled?
+- Would this make a hackathon judge pause and say “whoa”?
+- Would a user remember this design after closing it?
+
+If any answer is “no”, improve again before final output.
+
+Now redesign my portal completely with this standard.
+Do not give a safe or average result.
+Give me a bold, refined, unforgettable product UI.
